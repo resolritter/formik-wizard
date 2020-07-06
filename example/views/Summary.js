@@ -1,4 +1,4 @@
-import { useFormikWizard } from 'formik-wizard'
+import { useFormikWizard } from '../../src/index.tsx'
 import React from 'react'
 
 function Summary() {
